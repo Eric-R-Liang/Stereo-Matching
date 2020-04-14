@@ -10,4 +10,8 @@ In order to obtain depth information,an important concept to grasp is __disparit
 A conclusive equation that can be used to calculate the depth of the image (z) is: _**z**= (b * f) / (xl - xr)_
 
 ## Dataset 
-The dataset is obtained on http://vision.middlebury.edu/stereo/data/scenes2014/. A pair of 2D stereo images along with their calibration information file are obtained. The original image is shown below: 
+The dataset is obtained on http://vision.middlebury.edu/stereo/data/scenes2014/. A pair of 2D stereo images along with their calibration information file are obtained. The original image is shown below: ![](https://user-images.githubusercontent.com/39924702/79196146-7d439380-7dfd-11ea-96db-c669437afa41.png).
+
+More dataset information can be obtained in the Dataset folder of the repository. 
+
+
