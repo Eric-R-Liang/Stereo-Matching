@@ -15,6 +15,6 @@ The dataset is obtained on http://vision.middlebury.edu/stereo/data/scenes2014/.
 More dataset information can be obtained in the Dataset folder of the repository. 
 
 ## Result
-Generated disparity map:
+Generated disparity map: ![](https://user-images.githubusercontent.com/39924702/79197162-47071380-7dff-11ea-9333-90eef1f80b85.png)
 
-Generated 3D image:![]("https://user-images.githubusercontent.com/39924702/79196898-df50c880-7dfe-11ea-9d5b-ab96baea34dd.png">).
+Generated 3D image:![](https://user-images.githubusercontent.com/39924702/79196898-df50c880-7dfe-11ea-9d5b-ab96baea34dd.png)
