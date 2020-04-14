@@ -16,4 +16,5 @@ More dataset information can be obtained in the Dataset folder of the repository
 
 ## Result
 Generated disparity map:
-Generated 3D image: 
+
+Generated 3D image:![]("https://user-images.githubusercontent.com/39924702/79196898-df50c880-7dfe-11ea-9d5b-ab96baea34dd.png">).
